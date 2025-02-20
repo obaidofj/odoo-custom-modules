@@ -57,6 +57,15 @@ This module adds a **Discount** field to the Product model, allowing users to se
 
 
 ## Installation
-1. Clone this repository:
+Clone this repository:
    ```bash
    git clone https://github.com/obaidofj/odoo-custom-modules.git
+   ```
+other steps are above for each module
+
+---
+
+## Author
+
+Obaid Nieroukh
+    GitHub: [Obaid Nieroukh](https://github.com/obaidofj)
